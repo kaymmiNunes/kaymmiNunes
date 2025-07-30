@@ -2,23 +2,33 @@
 
 ###
 
-<h5 align="left">Desenvolvedor em formação, apaixonado por tecnologia e inovação. Com uma sólida base em HTML, CSS, JavaScript e Lógica de Programação, estou constantemente aprimorando minhas habilidades para me tornar um profissional full stack.</h5>
+<h4 align="left">Desenvolvedor em formação, apaixonado por tecnologia e inovação. Com uma sólida base em HTML, CSS, JavaScript e Lógica de Programação, estou constantemente aprimorando minhas habilidades para me tornar um profissional full stack.</h4>
 
 ###
 
-<h4 align="left">👩‍💻 Sobre mim:</h4>
+<h2 align="left">👩‍💻 Sobre mim:</h2>
 
 ###
 
-<h5 align="left">🔹⚡ Técnico em Sistemas de Energias Renovável - IFPB<br>🔹🎓 Graduando em Análises e Desenvolvimento de Sistemas - UNOPAR<br>🔹📚 Estudando desenvolvimento Back End com Python - SOFTEX PE<br>🔹👨‍🏫 Atuando como professor de Robótica Educacional para turmas dos anos finais do ensino fundamental</h5>
+<h4 align="left">🔹⚡ Técnico em Sistemas de Energias Renovável - IFPB<br>🔹🎓 Graduando em Análises e Desenvolvimento de Sistemas - UNOPAR<br>🔹📚 Estudando desenvolvimento Back End com Python - SOFTEX PE<br>🔹👨‍🏫 Atuando como professor de Robótica Educacional para turmas dos anos finais do ensino fundamental</h4>
 
 ###
 
-<h4 align="left">🛠  Tecnologias que eu uso:</h4>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div align="left">
+<h2 align="left">🛠  Tecnologias que eu uso:</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -36,11 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h4 align="left">🌐 Minhas redes sociais:</h4>
+<h2 align="left">🌐 Minhas redes sociais:</h2>
 
 ###
 
