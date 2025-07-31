@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🔹⚡ Técnico em Sistemas de Energias Renovável - IFPB<br>🔹🎓 Graduando em Análises e Desenvolvimento de Sistemas - UNOPAR<br>🔹📚 Estudando desenvolvimento Back End com Python - SOFTEX PE<br>🔹👨‍🏫 Atuando como professor de Robótica Educacional para turmas dos anos finais do ensino fundamental</h4>
+<h4 align="left">🔹⚡ Técnico em Sistemas de Energia Renovável - IFPB<br>🔹🎓 Graduando em Análises e Desenvolvimento de Sistemas - UNOPAR<br>🔹📚 Estudando desenvolvimento Back End com Python - SOFTEX PE<br>🔹👨‍🏫 Atuando como professor de Robótica Educacional para turmas dos anos finais do ensino fundamental</h4>
 
 ###
 
