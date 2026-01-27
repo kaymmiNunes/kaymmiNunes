@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">🛠  Tecnologias que eu uso:</h2>
+<h2 align="left">Tecnologias que eu uso:</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">🌐 Minhas redes sociais:</h2>
+<h2 align="left">Minhas redes sociais:</h2>
 
 ###
 
