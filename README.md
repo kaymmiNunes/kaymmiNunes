@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Desenvolvedor em formação, apaixonado por tecnologia e inovação. Com uma sólida base em HTML, CSS, JavaScript e Lógica de Programação, estou constantemente aprimorando minhas habilidades para me tornar um profissional full stack.</h4>
+<h4 align="left">Desenvolvedor em formação, apaixonado por tecnologia e inovação. Com uma sólida base de desenvolvimento em Python, HTML, CSS e JavaScript. Estou constantemente aprimorando minhas habilidades para me tornar um profissional full stack.</h4>
 
 ###
 
