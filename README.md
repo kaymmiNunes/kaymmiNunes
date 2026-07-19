@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/kaymminunes" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/kaymmiNunes" target="_blank">
+<a href="https://github.com/kaymmiNunes?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/Repositórios-020617?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
 </a>
 <a href="https://www.instagram.com/kaymmi_n" target="_blank">
