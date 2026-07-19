@@ -65,13 +65,6 @@ Atuo na interseção entre **desenvolvimento de software** e **educação tecnol
 | [**Irrigação Automática**](https://github.com/kaymmiNunes/irrigacao-automatica) | Sistema inteligente para monitoramento da umidade do solo, consumo de água e controle remoto de uma bomba hidráulica. | ESP8266, C++, Arduino IDE, sensores e Blynk IoT |
 | [**Quitanda Agroecológica**](https://github.com/kaymmiNunes/quitanda-agroecologica) | Site expositivo para valorização da agricultura familiar, divulgação de produtos, receitas e contato com a comunidade. | HTML, CSS, JavaScript e Cloudflare Workers |
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaymmiNunes&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaymmiNunes&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-</div>
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
@@ -88,11 +81,3 @@ Atuo na interseção entre **desenvolvimento de software** e **educação tecnol
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições em formato Pac-Man" src="https://raw.githubusercontent.com/kaymmiNunes/kaymmiNunes/output/pacman-contribution-graph.svg">
-</picture>
